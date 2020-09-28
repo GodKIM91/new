@@ -18,3 +18,10 @@ else
 end 
 
 puts "the result is #{sum}"
+
+#some comment
+
+=begin
+ wdswds   
+ 56565556
+=end
