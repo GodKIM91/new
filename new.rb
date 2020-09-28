@@ -11,6 +11,8 @@ elsif op=="-"
     sum=num1-num2
 elsif op=="*"
     sum=num1*num2
+elsif op=="/"
+    sum=num1/num2
 else 
     puts "Wrong operation"
 end 
